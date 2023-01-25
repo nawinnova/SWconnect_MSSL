@@ -1,7 +1,7 @@
 ## MSSL SW Connectivity WG workshop
 A repository for storing the example code and the presentation for the data workshop of MSSL SW connectivity working group.
 
-#Laundry list for Connectivity Science
+# Laundry list for Connectivity Science
 
 Tools
 - Jhelioviewer (http://www.jhelioviewer.org)
